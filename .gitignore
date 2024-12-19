@@ -133,3 +133,4 @@ dist
 # bot
 .env
 rankings.json
+prompts
