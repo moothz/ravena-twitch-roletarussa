@@ -134,3 +134,4 @@ dist
 .env
 rankings.json
 prompts
+.token.json

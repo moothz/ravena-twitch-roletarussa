@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "dotenv": "^16.4.7",
-    "tmi.js": "^1.8.5"
+    "@twurple/api": "^7.2.0",
+    "@twurple/auth": "^7.2.0",
+    "@twurple/chat": "^7.2.0",
+    "dotenv": "^16.4.7"
   }
 }
